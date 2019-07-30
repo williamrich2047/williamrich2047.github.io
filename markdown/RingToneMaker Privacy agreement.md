@@ -1,4 +1,4 @@
-RingToneMaker Privacy Policy 
+# RingToneMaker Privacy Policy 
 
 We do not collect and store any message from your social network or advertisements or other operating organizations in any form.
 
